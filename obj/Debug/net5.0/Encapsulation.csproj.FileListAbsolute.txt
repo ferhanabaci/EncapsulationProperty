@@ -1,0 +1,16 @@
+C:\Users\ferhan\Desktop\Pratikler\Encapsulation\bin\Debug\net5.0\Encapsulation.exe
+C:\Users\ferhan\Desktop\Pratikler\Encapsulation\bin\Debug\net5.0\Encapsulation.deps.json
+C:\Users\ferhan\Desktop\Pratikler\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.json
+C:\Users\ferhan\Desktop\Pratikler\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.dev.json
+C:\Users\ferhan\Desktop\Pratikler\Encapsulation\bin\Debug\net5.0\Encapsulation.dll
+C:\Users\ferhan\Desktop\Pratikler\Encapsulation\bin\Debug\net5.0\ref\Encapsulation.dll
+C:\Users\ferhan\Desktop\Pratikler\Encapsulation\bin\Debug\net5.0\Encapsulation.pdb
+C:\Users\ferhan\Desktop\Pratikler\Encapsulation\obj\Debug\net5.0\Encapsulation.csprojAssemblyReference.cache
+C:\Users\ferhan\Desktop\Pratikler\Encapsulation\obj\Debug\net5.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhan\Desktop\Pratikler\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\ferhan\Desktop\Pratikler\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfo.cs
+C:\Users\ferhan\Desktop\Pratikler\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ferhan\Desktop\Pratikler\Encapsulation\obj\Debug\net5.0\Encapsulation.dll
+C:\Users\ferhan\Desktop\Pratikler\Encapsulation\obj\Debug\net5.0\ref\Encapsulation.dll
+C:\Users\ferhan\Desktop\Pratikler\Encapsulation\obj\Debug\net5.0\Encapsulation.pdb
+C:\Users\ferhan\Desktop\Pratikler\Encapsulation\obj\Debug\net5.0\Encapsulation.genruntimeconfig.cache
